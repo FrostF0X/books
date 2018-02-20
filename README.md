@@ -8,6 +8,8 @@ Repository of interested programming books
 
 [Refactoring: Improving the Design of Existing Code](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Technology-ebook/dp/B007WTFWJ6/ref=mt_kindle?_encoding=UTF8&me=)
 
+[Working Effectively with Legacy Code (Robert C. Martin Series)](https://www.amazon.com/Working-Effectively-Legacy-Robert-Martin-ebook/dp/B005OYHF0A/ref=pd_sim_351_3?_encoding=UTF8&psc=1&refRID=2WBEAJ80XH6KQQP5D655)
+
 ## Patterns
 [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8/ref=mt_kindle?_encoding=UTF8&me=)
 
@@ -20,3 +22,6 @@ Repository of interested programming books
 
 ## Techniques
 [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software-ebook/dp/B00794TAUG/ref=mt_kindle?_encoding=UTF8&me=)
+
+## Tests
+[Growing Object-Oriented Software, Guided by Tests (Addison-Wesley Signature Series (Beck))]https://www.amazon.com/Growing-Object-Oriented-Software-Addison-Wesley-Signature-ebook/dp/B002TIOYVW/ref=pd_sim_351_4?_encoding=UTF8&psc=1&refRID=EGXRQND866MZHZAEAWZX
