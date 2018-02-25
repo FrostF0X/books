@@ -1,12 +1,10 @@
 # Books
 Repository of interested programming books
 
-## Code quality & refactoring
+## Code quality
 [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM/ref=mt_kindle?_encoding=UTF8&me=)
 
 [Code complete](https://www.amazon.com/Code-Complete-Developer-Best-Practices-ebook/dp/B00JDMPOSY/ref=pd_sim_351_3?_encoding=UTF8&psc=1&refRID=WAHW9HCVDQR88R0K5AW4)
-
-[Refactoring: Improving the Design of Existing Code](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Technology-ebook/dp/B007WTFWJ6/ref=mt_kindle?_encoding=UTF8&me=)
 
 [Working Effectively with Legacy Code (Robert C. Martin Series)](https://www.amazon.com/Working-Effectively-Legacy-Robert-Martin-ebook/dp/B005OYHF0A/ref=pd_sim_351_3?_encoding=UTF8&psc=1&refRID=2WBEAJ80XH6KQQP5D655)
 
@@ -21,7 +19,13 @@ Repository of interested programming books
 [The Pragmatic Programmer: From Journeyman to Master](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X#customerReviews)
 
 ## Techniques
-[Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software-ebook/dp/B00794TAUG/ref=mt_kindle?_encoding=UTF8&me=)
+:white_check_mark:[Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software-ebook/dp/B00794TAUG/ref=mt_kindle?_encoding=UTF8&me=)
 
 ## Tests
 [Growing Object-Oriented Software, Guided by Tests (Addison-Wesley Signature Series (Beck))](https://www.amazon.com/Growing-Object-Oriented-Software-Addison-Wesley-Signature-ebook/dp/B002TIOYVW/ref=pd_sim_351_4?_encoding=UTF8&psc=1&refRID=EGXRQND866MZHZAEAWZX)
+
+## Refactoring
+[Refactoring: Improving the Design of Existing Code](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Technology-ebook/dp/B007WTFWJ6/ref=mt_kindle?_encoding=UTF8&me=)
+
+## Crafstamship
+:white_check_mark:[The Software Craftsman: Professionalism, Pragmatism, Pride (Robert C. Martin Series)](https://www.amazon.com/Software-Craftsman-Professionalism-Pragmatism-Robert-ebook/dp/B00QXAGIDO/ref=mt_kindle?_encoding=UTF8&me=)
