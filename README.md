@@ -4,6 +4,8 @@ Repository of interested programming books
 ## Code quality
 [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM/ref=mt_kindle?_encoding=UTF8&me=)
 
+[The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers-ebook/dp/B0050JLC9Y/ref=sr_1_3?s=digital-text&ie=UTF8&qid=1521369717&sr=1-3&keywords=Clean+Code&dpID=51MoTaVrS7L&preST=_SX342_QL70_&dpSrc=srch)
+
 [Code complete](https://www.amazon.com/Code-Complete-Developer-Best-Practices-ebook/dp/B00JDMPOSY/ref=pd_sim_351_3?_encoding=UTF8&psc=1&refRID=WAHW9HCVDQR88R0K5AW4)
 
 [Working Effectively with Legacy Code (Robert C. Martin Series)](https://www.amazon.com/Working-Effectively-Legacy-Robert-Martin-ebook/dp/B005OYHF0A/ref=pd_sim_351_3?_encoding=UTF8&psc=1&refRID=2WBEAJ80XH6KQQP5D655)
