@@ -18,10 +18,12 @@ Repository of interested programming books
 
 ## Business
 [Programming Pearls](https://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880/ref=pd_sbs_14_5?_encoding=UTF8&pd_rd_i=0201657880&pd_rd_r=4805GS2GBYAMWMWE2NNB&pd_rd_w=tggOu&pd_rd_wg=NjGGf&psc=1&refRID=4805GS2GBYAMWMWE2NNB)
+
 [The Pragmatic Programmer: From Journeyman to Master](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X#customerReviews)
 
 ## Techniques
 :white_check_mark:[Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software-ebook/dp/B00794TAUG/ref=mt_kindle?_encoding=UTF8&me=)
+
 [Extreme Programming Explained: Embrace Change (XP Series)](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change-ebook/dp/B00N1ZN6C0/ref=sr_1_2?s=digital-text&ie=UTF8&qid=1530463027&sr=1-2&keywords=XP&dpID=51iupjtHU%252BL&preST=_SX342_QL70_&dpSrc=srch)
 
 ## Tests
@@ -38,6 +40,7 @@ Repository of interested programming books
 
 ## DevOps
 [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley-ebook/dp/B003YMNVC0/ref=sr_1_3?s=digital-text&ie=UTF8&qid=1530462911&sr=1-3&keywords=continuous+delivery&dpID=51yF2SYUi7L&preST=_SY445_QL70_&dpSrc=srch)
+
 [The DevOps Handbook:: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations-ebook/dp/B01M9ASFQ3/ref=sr_1_4?s=digital-text&ie=UTF8&qid=1530462911&sr=1-4&keywords=continuous+delivery&dpID=51WMrr2knUL&preST=_SY445_QL70_&dpSrc=srch)
 
 
