@@ -2,9 +2,9 @@
 Repository of interested programming books
 
 ## Code quality
-[Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM/ref=mt_kindle?_encoding=UTF8&me=)
+:white_check_mark:[Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM/ref=mt_kindle?_encoding=UTF8&me=)
 
-[The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers-ebook/dp/B0050JLC9Y/ref=sr_1_3?s=digital-text&ie=UTF8&qid=1521369717&sr=1-3&keywords=Clean+Code&dpID=51MoTaVrS7L&preST=_SX342_QL70_&dpSrc=srch)
+:white_check_mark:[The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers-ebook/dp/B0050JLC9Y/ref=sr_1_3?s=digital-text&ie=UTF8&qid=1521369717&sr=1-3&keywords=Clean+Code&dpID=51MoTaVrS7L&preST=_SX342_QL70_&dpSrc=srch)
 
 [Code complete](https://www.amazon.com/Code-Complete-Developer-Best-Practices-ebook/dp/B00JDMPOSY/ref=pd_sim_351_3?_encoding=UTF8&psc=1&refRID=WAHW9HCVDQR88R0K5AW4)
 
@@ -22,6 +22,7 @@ Repository of interested programming books
 
 ## Techniques
 :white_check_mark:[Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software-ebook/dp/B00794TAUG/ref=mt_kindle?_encoding=UTF8&me=)
+[Extreme Programming Explained: Embrace Change (XP Series)](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change-ebook/dp/B00N1ZN6C0/ref=sr_1_2?s=digital-text&ie=UTF8&qid=1530463027&sr=1-2&keywords=XP&dpID=51iupjtHU%252BL&preST=_SX342_QL70_&dpSrc=srch)
 
 ## Tests
 :white_check_mark:[Growing Object-Oriented Software, Guided by Tests (Addison-Wesley Signature Series (Beck))](https://www.amazon.com/Growing-Object-Oriented-Software-Addison-Wesley-Signature-ebook/dp/B002TIOYVW/ref=pd_sim_351_4?_encoding=UTF8&psc=1&refRID=EGXRQND866MZHZAEAWZX)
@@ -31,3 +32,12 @@ Repository of interested programming books
 
 ## Crafstamship
 :white_check_mark:[The Software Craftsman: Professionalism, Pragmatism, Pride (Robert C. Martin Series)](https://www.amazon.com/Software-Craftsman-Professionalism-Pragmatism-Robert-ebook/dp/B00QXAGIDO/ref=mt_kindle?_encoding=UTF8&me=)
+
+## NoSql
+[NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence](https://www.amazon.com/NoSQL-Distilled-Emerging-Polyglot-Persistence-ebook/dp/B0090J3SYW/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1530462862&sr=1-1&keywords=NoSQL+Distilled&dpID=51icbeGHBrL&preST=_SY445_QL70_&dpSrc=srch)
+
+## DevOps
+[Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley-ebook/dp/B003YMNVC0/ref=sr_1_3?s=digital-text&ie=UTF8&qid=1530462911&sr=1-3&keywords=continuous+delivery&dpID=51yF2SYUi7L&preST=_SY445_QL70_&dpSrc=srch)
+[The DevOps Handbook:: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations-ebook/dp/B01M9ASFQ3/ref=sr_1_4?s=digital-text&ie=UTF8&qid=1530462911&sr=1-4&keywords=continuous+delivery&dpID=51WMrr2knUL&preST=_SY445_QL70_&dpSrc=srch)
+
+
