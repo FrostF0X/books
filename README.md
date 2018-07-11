@@ -1,5 +1,5 @@
 # Books
-Repository of interested programming books
+Repository of interesting programming books
 
 ## Code quality
 :white_check_mark:[Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM/ref=mt_kindle?_encoding=UTF8&me=)
@@ -15,11 +15,16 @@ Repository of interested programming books
 
 ## Architecture
 [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=0134494164&pd_rd_r=MDV5YFE1QJT8S37ESH1J&pd_rd_w=LbHcr&pd_rd_wg=ttT8j&psc=1&refRID=MDV5YFE1QJT8S37ESH1J)
+[Patterns of Enterprise Application Architecture (Addison-Wesley Signature Series (Fowler))](https://www.amazon.com/Enterprise-Application-Architecture-Addison-Wesley-Signature-ebook/dp/B008OHVDFM/ref=mt_kindle?_encoding=UTF8&me=&qid=1531337902)
 
 ## Business
 [Programming Pearls](https://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880/ref=pd_sbs_14_5?_encoding=UTF8&pd_rd_i=0201657880&pd_rd_r=4805GS2GBYAMWMWE2NNB&pd_rd_w=tggOu&pd_rd_wg=NjGGf&psc=1&refRID=4805GS2GBYAMWMWE2NNB)
 
 [The Pragmatic Programmer: From Journeyman to Master](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X#customerReviews)
+
+## Microservices
+
+[Building Microservices: Designing Fine-Grained Systems](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358/ref=pd_sim_14_6?_encoding=UTF8&pd_rd_i=1491950358&pd_rd_r=fbda0dbb-8541-11e8-8042-83a887e2fe6a&pd_rd_w=dXh7L&pd_rd_wg=vNIfN&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=7967298517161621930&pf_rd_r=T8J2A9MM9AGCPWMKNBZ1&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=T8J2A9MM9AGCPWMKNBZ1)
 
 ## Techniques
 :white_check_mark:[Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software-ebook/dp/B00794TAUG/ref=mt_kindle?_encoding=UTF8&me=)
@@ -28,6 +33,8 @@ Repository of interested programming books
 
 ## Tests
 :white_check_mark:[Growing Object-Oriented Software, Guided by Tests (Addison-Wesley Signature Series (Beck))](https://www.amazon.com/Growing-Object-Oriented-Software-Addison-Wesley-Signature-ebook/dp/B002TIOYVW/ref=pd_sim_351_4?_encoding=UTF8&psc=1&refRID=EGXRQND866MZHZAEAWZX)
+
+[xUnit Test Patterns: Refactoring Test Code](https://www.amazon.com/xUnit-Test-Patterns-Refactoring-Code/dp/0131495054/ref=sr_1_1?ie=UTF8&qid=1531337370&sr=8-1&keywords=xUnit+Test+Patterns%3A+Refactoring+Test+Code&dpID=517GxwaFMvL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch)
 
 ## Refactoring
 [Refactoring: Improving the Design of Existing Code](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Technology-ebook/dp/B007WTFWJ6/ref=mt_kindle?_encoding=UTF8&me=)
