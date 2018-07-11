@@ -27,9 +27,13 @@ Repository of interesting programming books
 
 [Building Microservices: Designing Fine-Grained Systems](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358/ref=pd_sim_14_6?_encoding=UTF8&pd_rd_i=1491950358&pd_rd_r=fbda0dbb-8541-11e8-8042-83a887e2fe6a&pd_rd_w=dXh7L&pd_rd_wg=vNIfN&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=7967298517161621930&pf_rd_r=T8J2A9MM9AGCPWMKNBZ1&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=T8J2A9MM9AGCPWMKNBZ1)
 
-## Techniques
+## DDD
+[Implementing Domain-Driven Design](https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577/ref=pd_sim_14_2?_encoding=UTF8&pd_rd_i=0321834577&pd_rd_r=71f0c455-8542-11e8-ac34-4559f0dbaf2c&pd_rd_w=KOXTG&pd_rd_wg=akyCa&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=7967298517161621930&pf_rd_r=STJ0WMV2HHJXQ8YDD6AN&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=STJ0WMV2HHJXQ8YDD6AN)
+
 :white_check_mark:[Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software-ebook/dp/B00794TAUG/ref=mt_kindle?_encoding=UTF8&me=)
 
+
+## Techniques
 [Extreme Programming Explained: Embrace Change (XP Series)](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change-ebook/dp/B00N1ZN6C0/ref=sr_1_2?s=digital-text&ie=UTF8&qid=1530463027&sr=1-2&keywords=XP&dpID=51iupjtHU%252BL&preST=_SX342_QL70_&dpSrc=srch)
 
 ## Tests
