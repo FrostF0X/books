@@ -41,6 +41,8 @@ Repository of interesting programming books
 
 [xUnit Test Patterns: Refactoring Test Code](https://www.amazon.com/xUnit-Test-Patterns-Refactoring-Code/dp/0131495054/ref=sr_1_1?ie=UTF8&qid=1531337370&sr=8-1&keywords=xUnit+Test+Patterns%3A+Refactoring+Test+Code&dpID=517GxwaFMvL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch)
 
+[Agile Testing: A Practical Guide for Testers and Agile Teams (Addison-Wesley Signature Series (Cohn))](https://www.amazon.com/Agile-Testing-Practical-Addison-Wesley-Signature-ebook/dp/B001QL5N4K/ref=pd_sim_351_7?_encoding=UTF8&pd_rd_i=B001QL5N4K&pd_rd_r=f3962802-b35b-11e8-b11d-915b29cfa4b3&pd_rd_w=cQhQz&pd_rd_wg=NzZca&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=18bb0b78-4200-49b9-ac91-f141d61a1780&pf_rd_r=K61CK9F4GGTKGV6SQSXM&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=K61CK9F4GGTKGV6SQSXM)
+
 ## Refactoring
 [Refactoring: Improving the Design of Existing Code](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Technology-ebook/dp/B007WTFWJ6/ref=mt_kindle?_encoding=UTF8&me=)
 
